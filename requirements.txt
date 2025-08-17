@@ -6,5 +6,6 @@ langchain
 langchain-community
 langchain-pinecone
 huggingface_hub
+sentence-transformers
 pinecone-client
 pydantic
